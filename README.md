@@ -50,7 +50,7 @@ For this project, the stakeholders most impacted  are the following
 **Task 5. Integrate Chatbot to Front End**
         -Integrated it in the body of the index.html file of the react project
         
-**Task 6. Present at Show and Tell **
+****Task 6. Present at Show and Tell
         -Submited video
         
 **Task 7. Submit your work**
