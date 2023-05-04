@@ -14,9 +14,9 @@ Turners is currently undertaking a major re-design of its motor vehicle insuranc
 
 **Task 1. Identify Stakeholders**
 For this project, the stakeholders most impacted  are the following
-  -Owners - Reducing longterm cost by optimizing time/resources
-  -Customers - Access to information 24/7
-  -Employees - Less time required per customer (might translate to higher chances of comissions)
+  -Owners - Reducing longterm cost by optimizing time/resources<br>
+  -Customers - Access to information 24/7<br>
+  -Employees - Less time required per customer (might translate to higher chances of comissions)<br>
 
         
 **Task 2. Understand Context of a Project**
