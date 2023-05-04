@@ -1,3 +1,12 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/thetergus">
+    <img src="http://www.videogamesprites.net/ChronoTrigger/Party/Frog/Frog%20-%20Walk%20(Front).gif" alt="Logo" 
+  </a>
+
+
+
 # Mision1LvL5
 Mision 1 for Level 5 from Mission Ready 
 
