@@ -1,0 +1,39 @@
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+      }
+
+      main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+
+      .car-listings {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+
+
+      .car-listing {
+        border: 1px solid #ccc;
+        padding: 1rem;
+      }
+
+      .car-listing img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      .car-listing h2 {
+        margin-top: 0;
+      }
+
+      .car-listing p {
+        margin-bottom: 0;
+      }
